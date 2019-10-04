@@ -1,0 +1,52 @@
+.bleu{
+    background-color:blue;
+    width:100px;
+    height:50px;
+    color: white;
+    border: 1px solid purple;
+}
+.rouge{
+    background-color:red;
+    width:100px;
+    height:50px;
+    border: 1px solid purple;
+}
+.vert{
+    background-color:green;
+    width:100px;
+    height:50px;
+    border: 1px solid purple;
+}
+.blanc{
+    background-color:white;
+    width:100px;
+    height:50px;
+    border: 1px solid purple;
+}
+.noir{
+    background-color:black;
+    color:white;
+    width:100px;
+    height:50px;
+    border: 1px solid purple;
+}
+.jaune{
+    background-color:yellow;
+    width:100px;
+    height:50px;
+    border: 1px solid purple;
+}
+.tuile{
+    width:100px;
+    height:50px;
+    background-color:lightgrey;
+    border:1px solid black;
+}
+.carte{
+    width:100px;
+    height:50px;
+    border:1px solid black;
+}
+.mainJ2, .mainJ1 .tuilesJ1, .tuilesJ2, .ligne{
+    justify-content: center;
+}
